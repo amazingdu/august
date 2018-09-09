@@ -4,7 +4,7 @@ using namespace std;
 
 int test()
 {
-	cout<<"ÕâÊÇÒ»¸öÀ´×ÔPCµÄ³ÌĞò,ÒªÉÏ´«µ½github"<<endl;
+	cout<<"è¿™æ˜¯ä¸€ä¸ªæ¥è‡ªPCçš„ç¨‹åº,è¦ä¸Šä¼ åˆ°github"<< endl;
 
 	return 0;
 }
